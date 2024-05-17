@@ -1,6 +1,6 @@
 #INCLUDE "protheus.ch"
 
-User Function fOperadores(nNum1, nNum2, tOper, nResultado)
+User Function Ex02(nNum1, nNum2, tOper, nResultado)
 
     Default nNum1 := 1500 
     Default nNum2 := 100
