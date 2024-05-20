@@ -3,7 +3,7 @@
 User Function ExOperStr()
     Local sTxt1 := "Nome " // Espa√ßo depois da palavra para teste
     Local sTxt2 := "Sobrenome"
-    Local sTxt3 := "Frase para teste de compara√ß√£o"
+    Local sTxt3 := "Frase para teste de comparaÁ„o"
     Local sTxt4 := "teste"
     Local sResult := ""
 

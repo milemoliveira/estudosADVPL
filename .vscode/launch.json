@@ -54,7 +54,10 @@
 		},
 		{
 			"label": "u_ExOperStr"
+		},
+		{
+			"label": "u_ExOperRel"
 		}
 	],
-	"lastProgramExecuted": "u_ExOperStr"
+	"lastProgramExecuted": "u_ExOperRel"
 }
