@@ -48,7 +48,13 @@
 		},
 		{
 			"label": "u_ExOperMat"
+		},
+		{
+			"label": "ExOperStr"
+		},
+		{
+			"label": "u_ExOperStr"
 		}
 	],
-	"lastProgramExecuted": "u_ExOperMat"
+	"lastProgramExecuted": "u_ExOperStr"
 }
