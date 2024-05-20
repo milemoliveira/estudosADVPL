@@ -57,7 +57,10 @@
 		},
 		{
 			"label": "u_ExOperRel"
+		},
+		{
+			"label": "u_ExOperLog"
 		}
 	],
-	"lastProgramExecuted": "u_ExOperRel"
+	"lastProgramExecuted": "u_ExOperLog"
 }
