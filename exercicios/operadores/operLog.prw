@@ -19,6 +19,3 @@ User Function ExOperLog()
     bResult := .not. nNum1 + nNum2 > 20 // Retorna VERDADEIRO
 
 Return
-
-
-// .Not. ou ! NÃO lógico
