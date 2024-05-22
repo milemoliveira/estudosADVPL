@@ -84,7 +84,10 @@
 		},
 		{
 			"label": "u_ExConvTVar"
+		},
+		{
+			"label": "u_ExManStr"
 		}
 	],
-	"lastProgramExecuted": "u_ExConvTVar"
+	"lastProgramExecuted": "u_ExManStr"
 }
