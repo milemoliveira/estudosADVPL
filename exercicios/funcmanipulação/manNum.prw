@@ -16,8 +16,8 @@ User Function ExManNum()
     nResul := INT(nNum4) // -2
 
     // Retorna um valor, truncando a parte decimal de acordo com a quantidade de casas decimais solicitadas.
-    nResul := NOROUND(nNum1, 2)
+    nResul := NOROUND(nNum1, 2) // 5.17
     
     // Retorna um valor, arredondando a parte decimal de acordo com a quantidades de casas decimais solicitadas
-    nResul := ROUND(nNum1, 2)
+    nResul := ROUND(nNum1, 2) // 5.18
 Return
