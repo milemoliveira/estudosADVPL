@@ -87,7 +87,10 @@
 		},
 		{
 			"label": "u_ExManStr"
+		},
+		{
+			"label": "u_ExManNum"
 		}
 	],
-	"lastProgramExecuted": "u_ExManStr"
+	"lastProgramExecuted": "u_ExManNum"
 }
