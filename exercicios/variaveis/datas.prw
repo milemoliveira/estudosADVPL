@@ -26,8 +26,3 @@ User Function ExDatas()
     cResp := MesExtenso(dDataAtual)
 
 Return
-// CVALTOCHAR()
-// DTOS()
-// STR()
-// STRZERO()
-// VAL()
