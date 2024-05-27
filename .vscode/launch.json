@@ -90,7 +90,10 @@
 		},
 		{
 			"label": "u_ExManNum"
+		},
+		{
+			"label": "u_ExEstRep"
 		}
 	],
-	"lastProgramExecuted": "u_ExManNum"
+	"lastProgramExecuted": "u_ExEstRep"
 }
