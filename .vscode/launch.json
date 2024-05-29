@@ -99,7 +99,10 @@
 		},
 		{
 			"label": "u_ExIniArrays"
+		},
+		{
+			"label": "u_ExManArrays"
 		}
 	],
-	"lastProgramExecuted": "u_ExIniArrays"
+	"lastProgramExecuted": "u_ExManArrays"
 }
